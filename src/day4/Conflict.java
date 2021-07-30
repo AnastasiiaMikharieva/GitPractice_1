@@ -7,6 +7,6 @@ public class Conflict {
         //I can type anything here
         //and it will become final merge result
     //This is collection branch content
-    //This is a chanche
-
+//THIS IS THE CUSTOM OUTPUT FROM
+    //GOOD JOB EVERYONE
 }
